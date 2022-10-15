@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustough
-- 👀 I’m interested in Cloud engineering and services
+- 👀 I’m interested in Cloud engineering enterpises and business
 - 🌱 I’m currently learning cloud engineering at Altschool Africa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  yusufmm13@gmail.com
